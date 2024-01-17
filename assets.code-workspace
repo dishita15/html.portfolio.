@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "assets"
+		},
+		{
+			"path": "public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
+}
